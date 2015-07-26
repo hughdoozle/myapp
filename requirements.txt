@@ -1,0 +1,6 @@
+bob-builder==0.0.5
+numpy==1.9.2
+pandas==0.16.1
+datetime==4.0
+matplotlib==1.4.3
+Quandl==2.8.7
